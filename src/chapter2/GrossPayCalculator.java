@@ -2,6 +2,7 @@ package chapter2;
 
 import java.util.Scanner;
 
+// This file to calculate the gross pay using using simple java operators
 public class GrossPayCalculator {
     public static void main(String[] args){
 
